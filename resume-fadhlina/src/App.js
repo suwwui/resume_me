@@ -4,12 +4,16 @@ import React from 'react';
 const Resume = () => {
   return (
     <div>
-      <header>
-        <h1 style={{ color: '#137557' }}>Nur Fadhlina Wjedi</h1>
-        <p>014-7740908 | Johor Bahru |wfdhlyna@gmail.com| Nur Fadhlina | suwwui</p>
+      <header >
+        <h1 style={{ color: '#538135', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          Nur Fadhlina Wjedi
+          </h1>
+        <p style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+          014-7740908 | Johor Bahru | wfdhlyna@gmail.com| Nur Fadhlina | suwwui
+          </p>
       </header>
       <section>
-        <h2 style={{ color: '#137557' }}>EDUCATION</h2>
+        <h2 style={{ color: '#538135' }}>EDUCATION</h2>
         <ul>
           <li>
             <h3>Universiti Malaysia Sarawak, UNIMAS (2019-2022)</h3>
@@ -27,7 +31,7 @@ const Resume = () => {
         </ul>
       </section>
       <section>
-        <h2 style={{ color: '#137557' }}>WORKING EXPERIENCE</h2>
+        <h2 style={{ color: '#538135' }}>WORKING EXPERIENCE</h2>
         <ul>
           <li>
             <h3>Sales Assistant (Part Time)</h3>
@@ -69,7 +73,7 @@ const Resume = () => {
         </ul>
       </section>
       <section>
-        <h2 style={{ color: '#137557' }}>ACTIVITIES AND INVOLVEMENT</h2>
+        <h2 style={{ color: '#538135' }}>ACTIVITIES AND INVOLVEMENT</h2>
         <ul>
           <li>
             <h3>Softskills and Volunteerism, PPPU UNIMAS (2018)</h3>
@@ -104,7 +108,7 @@ const Resume = () => {
         </ul>
       </section>
       <section>
-        <h2 style={{ color: '#137557' }}>PROJECT EXPERIENCE</h2>
+        <h2 style={{ color: '#538135' }}>PROJECT EXPERIENCE</h2>
         <ul>
           <li>
             <h3>2018</h3>
@@ -135,7 +139,7 @@ const Resume = () => {
           </ul>
           </section>
       <section>
-        <h3 style={{ color: '#137557' }}>SKILLS</h3>
+        <h3 style={{ color: '##538135' }}>SKILLS</h3>
         <ul>
           <li>
         <ul>
